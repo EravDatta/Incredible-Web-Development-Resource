@@ -31,31 +31,31 @@ Learning Platforms:
 <br>
 Freelancing platforms:
 <br><br>
-⧩ http://toptal.com
-⧩ http://upwork.com
-⧩ http://freelancer.com
-⧩ http://peopleperhour.com
-⧩ http://simplyhired.com
-⧩ http://envato.com
-⧩ http://guru.com
-⧩ http://fiverr.com
-⧩ http://hireable.com
+⧩ http://toptal.com <br>
+⧩ http://upwork.com <br>
+⧩ http://freelancer.com <br>
+⧩ http://peopleperhour.com <br>
+⧩ http://simplyhired.com <br>
+⧩ http://envato.com <br>
+⧩ http://guru.com <br>
+⧩ http://fiverr.com <br>
+⧩ http://hireable.com <br>
 ⧩ http://6nomads.com
 <br>
 <br>
 <br>
 Coding Challenge Platforms:
 <br><br>
-⧩ http://codewars.com
-⧩ http://topcoder.com
-⧩ http://codingame.com
-⧩ http://hackerrank.com
-⧩ http://projecteuler.net
-⧩ http://coderbyte.com
-⧩ http://codechef.com
-⧩ http://exercism.io
-⧩ http://leetcode.com
-⧩ http://spoj.com
+⧩ http://codewars.com <br>
+⧩ http://topcoder.com <br>
+⧩ http://codingame.com <br>
+⧩ http://hackerrank.com <br>
+⧩ http://projecteuler.net <br>
+⧩ http://coderbyte.com <br>
+⧩ http://codechef.com <br>
+⧩ http://exercism.io <br>
+⧩ http://leetcode.com <br>
+⧩ http://spoj.com 
 <br>
 <br>
 <br>
