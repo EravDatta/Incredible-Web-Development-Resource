@@ -4,14 +4,14 @@ Best Web Development Resources and Inspirations for Free 2020
 <br>
 Free Hosting:
 <br>
-⧩ http://netlify.com
-⧩ http://firebase.google.com
-⧩ http://aws.amazon.com
-⧩ http://heroku.com
-⧩ http://pages.github.com
-⧩ http://vercel.com
-⧩ http://surge.sh
-⧩ http://render.com
+⧩ http://netlify.com <br>
+⧩ http://firebase.google.com <br>
+⧩ http://aws.amazon.com <br>
+⧩ http://heroku.com <br>
+⧩ http://pages.github.com <br>
+⧩ http://vercel.com <br>
+⧩ http://surge.sh <br>
+⧩ http://render.com <br>
 ⧩ http://docs.gitlab.com/ee/user/project/pages
 <br>
 <br>
