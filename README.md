@@ -3,7 +3,7 @@ Best Web Development Resources and Inspirations for Free 2020
 <br>
 <br>
 Free Hosting:
-<br>
+<br><br>
 ⧩ http://netlify.com <br>
 ⧩ http://firebase.google.com <br>
 ⧩ http://aws.amazon.com <br>
@@ -17,12 +17,15 @@ Free Hosting:
 <br>
 <br>
 Learning Platforms:
+<br><br>
+⧩ http://freecodecamp.org <br>
+⧩ http://codecademy.com <br>
+⧩ http://javascript30.com <br>
+⧩ http://frontendmentor.io <br>
+⧩ http://testautomationu.applitools.com <br>
+⧩ http://coursera.org <br>
+⧩ http://khanacademy.org <br>
+⧩ http://sololearn.com  
 <br>
-⧩ http://freecodecamp.org
-⧩ http://codecademy.com
-⧩ http://javascript30.com
-⧩ http://frontendmentor.io
-⧩ http://testautomationu.applitools.com
-⧩ http://coursera.org
-⧩ http://khanacademy.org
-⧩ http://sololearn.com 
+<br>
+<br>
