@@ -29,3 +29,33 @@ Learning Platforms:
 <br>
 <br>
 <br>
+Freelancing platforms:
+<br><br>
+⧩ http://toptal.com
+⧩ http://upwork.com
+⧩ http://freelancer.com
+⧩ http://peopleperhour.com
+⧩ http://simplyhired.com
+⧩ http://envato.com
+⧩ http://guru.com
+⧩ http://fiverr.com
+⧩ http://hireable.com
+⧩ http://6nomads.com
+<br>
+<br>
+<br>
+Coding Challenge Platforms:
+<br><br>
+⧩ http://codewars.com
+⧩ http://topcoder.com
+⧩ http://codingame.com
+⧩ http://hackerrank.com
+⧩ http://projecteuler.net
+⧩ http://coderbyte.com
+⧩ http://codechef.com
+⧩ http://exercism.io
+⧩ http://leetcode.com
+⧩ http://spoj.com
+<br>
+<br>
+<br>
