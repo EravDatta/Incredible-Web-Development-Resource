@@ -59,3 +59,13 @@ Coding Challenge Platforms:
 <br>
 <br>
 <br>
+List of websites to find remote jobs:
+<br><br>
+⧩ http://flexjobs.com <br>
+⧩ http://remote.co/remote-jobs <br>
+⧩ http://justremote.co <br>
+⧩ http://weworkremotely.com <br>
+⧩ http://remoteok.io <br>
+⧩ http://jobspresso.co <br>
+⧩ http://europeremotely.com <br>
+⧩ http://wfh.io
