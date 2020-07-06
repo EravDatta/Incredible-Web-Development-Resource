@@ -69,3 +69,11 @@ List of websites to find remote jobs:
 ⧩ http://jobspresso.co <br>
 ⧩ http://europeremotely.com <br>
 ⧩ http://wfh.io
+<br>
+<br>
+<br>
+Stock Photos:
+<br><br>
+⧩ Camera http://unsplash.com<br>
+⧩ Camera http://pixabay.com<br>
+⧩ Camera http://pexels.com
