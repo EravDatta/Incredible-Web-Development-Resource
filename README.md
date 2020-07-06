@@ -74,6 +74,6 @@ List of websites to find remote jobs:
 <br>
 Stock Photos:
 <br><br>
-⧩ Camera http://unsplash.com<br>
-⧩ Camera http://pixabay.com<br>
-⧩ Camera http://pexels.com
+⧩ http://unsplash.com<br>
+⧩ http://pixabay.com<br>
+⧩ http://pexels.com
